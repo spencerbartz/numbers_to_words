@@ -70,9 +70,9 @@
 
 	echo numberToWord(7049, $numberWordMap);
 	echo numberToWord(9999, $numberWordMap);
-	echo numberToWord(0, 		$numberWordMap);
-	echo numberToWord(49, 	$numberWordMap);
+	echo numberToWord(0,    $numberWordMap);
+	echo numberToWord(49,   $numberWordMap);
 	echo numberToWord(7149, $numberWordMap);
-	echo numberToWord(704, 	$numberWordMap);
+	echo numberToWord(704,  $numberWordMap);
 
 ?>
